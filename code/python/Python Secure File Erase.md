@@ -1,4 +1,4 @@
-# # Build a Python Secure File Eraser App with PyQt (Step-by-Step)
+# Build a Python Secure File Eraser App with PyQt (Step-by-Step)
 
 Want to permanently delete sensitive files beyond recovery? In this project, you'll build a **Secure File Eraser** using Python and PyQt, ensuring that deleted files cannot be restored by forensic tools.
 

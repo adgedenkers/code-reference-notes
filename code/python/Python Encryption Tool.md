@@ -1,4 +1,4 @@
-# # Build a Python File Encryption Tool with PyQt (Step-by-Step)
+# Build a Python File Encryption Tool with PyQt (Step-by-Step)
 
 Want to protect your sensitive files from unauthorized access? In this project, you'll build a **File Encryption & Decryption Tool** using Python, PyQt, and the `cryptography` library to ensure your files remain secure.
 

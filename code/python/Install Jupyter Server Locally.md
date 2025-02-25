@@ -62,20 +62,20 @@
 1. **Create a virtual environment:**
     
     ```bash
-    python -m venv jupyter_env
+    python -m venv .venv
     ```
     
 2. **Activate the virtual environment:**
     - **Windows:**
         
         ```bash
-        jupyter_env\Scripts\activate
+        .venv\Scripts\Activate.ps1
         ```
         
     - **macOS/Linux:**
         
         ```bash
-        source jupyter_env/bin/activate
+        source .venv/bin/activate
         ```
         
 3. **Confirm virtual environment activation:**  
